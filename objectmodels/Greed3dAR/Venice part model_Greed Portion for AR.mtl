@@ -1,0 +1,3115 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _24
+Ka 0.000000 0.000000 0.000000
+Kd 0.886275 0.886275 0.886275
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Gainsboro_
+Ka 0.000000 0.000000 0.000000
+Kd 0.862745 0.862745 0.862745
+Ks 0.330000 0.330000 0.330000
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _auto_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.333333 0.333333 0.333333
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+
+newmtl _auto_12
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+
+newmtl _auto_13
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+
+newmtl _auto_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+
+newmtl _auto_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+
+newmtl _30
+Ka 0.000000 0.000000 0.000000
+Kd 0.749020 0.749020 0.749020
+Ks 0.330000 0.330000 0.330000
+
+newmtl glass
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.258824 0.243137
+Ks 0.330000 0.330000 0.330000
+
+newmtl Google_Earth_Snapshot2
+Ka 0.000000 0.000000 0.000000
+Kd 0.443137 0.443137 0.443137
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot2.jpg
+
+newmtl M_1922_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.654902 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_1922_2.jpg
+
+newmtl M_1922_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.560784 0.486275
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_1922_4.jpg
+
+newmtl M_1922_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.545098 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_1922_3.jpg
+
+newmtl M_1922_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.513725 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_1922_1.jpg
+
+newmtl M_53394140_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.654902 0.643137
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_53394140_3.jpg
+
+newmtl nape
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.423529 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape.png
+
+newmtl M_53394140_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.705882 0.705882 0.694118
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_53394140_4.jpg
+
+newmtl M_53394140_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.780392 0.776471
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_53394140_2.jpg
+
+newmtl M_5515_20130309022853_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.564706 0.560784
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_5515_20130309022853_3.jpg
+
+newmtl M_5515_20130309022853_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.509804 0.494118
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_5515_20130309022853_5.jpg
+
+newmtl M_5515_20130309022853_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.290196 0.266667 0.243137
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_5515_20130309022853_4.jpg
+
+newmtl M_5515_20130309022853_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.705882 0.709804 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_5515_20130309022853_1.jpg
+
+newmtl M_5515_20130309022853_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.364706 0.352941 0.317647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_5515_20130309022853_2.jpg
+
+newmtl scmp_25nov04_pp_macau13_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.345098 0.352941 0.250980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/scmp_25nov04_pp_macau13_7.jpg
+
+newmtl scmp_25nov04_pp_macau13_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.376471 0.250980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/scmp_25nov04_pp_macau13_6.jpg
+
+newmtl M_53394140_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.635294 0.639216
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_53394140_1.jpg
+
+newmtl mape1_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.643137 0.650980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/mape1_1.jpg
+
+newmtl M_53394140
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.596078 0.643137
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_53394140.jpg
+
+newmtl M_1012Macau_outlpook_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.541176 0.486275
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_1012Macau_outlpook_2.jpg
+
+newmtl M_1012Macau_outlpook_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.541176 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_1012Macau_outlpook_1.jpg
+
+newmtl M_20150418_134203_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.443137 0.478431 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134203_9.jpg
+
+newmtl M_20150418_134203_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.274510 0.294118
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134203_10.jpg
+
+newmtl M_20150418_134203_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.725490 0.733333
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134203_14.jpg
+
+newmtl M_20150418_133103_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.603922 0.596078
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_133103_6.jpg
+
+newmtl M_20150418_133119_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.709804 0.686275
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_133119_3.jpg
+
+newmtl M_20150418_134651_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.458824 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134651_9.jpg
+
+newmtl M_20150418_134651_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.600000 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134651_6.jpg
+
+newmtl M_20150418_134651_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.482353 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134651_8.jpg
+
+newmtl M_20150418_133103_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.200000 0.176471
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_133103_3.jpg
+
+newmtl M_20150418_134203_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.450980 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134203_11.jpg
+
+newmtl M_20150418_134203_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.462745 0.458824
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134203_8.jpg
+
+newmtl M_20150418_134106_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.576471 0.678431
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134106_7.jpg
+
+newmtl M_20150418_133103_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.458824 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_133103_4.jpg
+
+newmtl M_20150418_134106_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.635294 0.690196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134106_1.jpg
+
+newmtl M_20150418_134203_12
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.278431 0.266667
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134203_12.jpg
+
+newmtl M_20150418_133103_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.560784 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_133103_5.jpg
+
+newmtl M_20150418_134203_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.682353 0.741176 0.745098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134203_13.jpg
+
+newmtl M_20150418_134106_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.576471 0.619608
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134106_2.jpg
+
+newmtl M_20150418_134651_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.172549 0.172549
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134651_13.jpg
+
+newmtl M_20150418_134106_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.529412 0.552941
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134106_5.jpg
+
+newmtl M_20150418_134106_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.541176 0.603922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134106_3.jpg
+
+newmtl M_20150418_134106_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.537255 0.592157
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134106_4.jpg
+
+newmtl M_20150418_133355_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.584314 0.552941
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_133355_2.jpg
+
+newmtl M_20150418_134106_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.584314 0.627451
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134106_8.jpg
+
+newmtl M_20150418_133543_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.592157 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_133543_1.jpg
+
+newmtl M_20150418_134651_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.529412 0.541176 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134651_7.jpg
+
+newmtl M_20150418_133103_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.435294 0.431373
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_133103_2.jpg
+
+newmtl M_20150418_133355_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.498039 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_133355_1.jpg
+
+newmtl M_20150418_134651_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.360784 0.392157 0.392157
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_134651_1.jpg
+
+newmtl M_20150418_133355_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.533333 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150418_133355_4.jpg
+
+newmtl scmp_25nov04_pp_macau13
+Ka 0.000000 0.000000 0.000000
+Kd 0.352941 0.349020 0.301961
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/scmp_25nov04_pp_macau13.jpg
+
+newmtl scmp_25nov04_pp_macau13_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.380392 0.333333
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/scmp_25nov04_pp_macau13_3.jpg
+
+newmtl nape3_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.498039 0.513725
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape3_1.jpg
+
+newmtl nape3_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.388235
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape3_2.jpg
+
+newmtl scmp_25nov04_pp_macau13_jpg_b74f4254_5633427
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.490196 0.458824
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/scmp_25nov04_pp_macau13_jpg_b74f4254_5633427.jpg
+
+newmtl scmp_25nov04_pp_macau13_jpg_b74f4254_5633427_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.490196 0.458824
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/scmp_25nov04_pp_macau13_jpg_b74f4254_5633427_1_.jpg
+
+newmtl scmp_25nov04_pp_macau13_jpg_b74f4254_5633427_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.490196 0.458824
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/scmp_25nov04_pp_macau13_jpg_b74f4254_5633427_2_.jpg
+
+newmtl scmp_25nov04_pp_macau13_jpg_b74f4254_5633427_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.490196 0.458824
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/scmp_25nov04_pp_macau13_jpg_b74f4254_5633427_3_.jpg
+
+newmtl scmp_25nov04_pp_macau13_jpg_b74f4254_5633427_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.490196 0.458824
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/scmp_25nov04_pp_macau13_jpg_b74f4254_5633427_4_.jpg
+
+newmtl scmp_25nov04_pp_macau13_jpg_b74f4254_5633427_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.490196 0.458824
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/scmp_25nov04_pp_macau13_jpg_b74f4254_5633427_5_.jpg
+
+newmtl nape4_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.556863 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape4_3.jpg
+
+newmtl scmp_25nov04_pp_macau13_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.400000 0.364706
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/scmp_25nov04_pp_macau13_8.jpg
+
+newmtl nape4_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.749020 0.752941 0.792157
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape4_2.jpg
+
+newmtl nape4_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.568627 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape4_1.jpg
+
+newmtl M_800px_Macau_ZAPE_carpark_Avenida_Dr_Sun_Yat_Sen_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.439216 0.439216
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_800px_Macau_ZAPE_carpark_Avenida_Dr_Sun_Yat_Sen_1.jpg
+
+newmtl M_800px_Macau_ZAPE_carpark_Avenida_Dr_Sun_Yat_Sen_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.643137 0.623529
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_800px_Macau_ZAPE_carpark_Avenida_Dr_Sun_Yat_Sen_3.jpg
+
+newmtl M_800px_Macau_ZAPE_carpark_Avenida_Dr_Sun_Yat_Sen_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.337255 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_800px_Macau_ZAPE_carpark_Avenida_Dr_Sun_Yat_Sen_2.jpg
+
+newmtl M_1a085c44_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.470588 0.603922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_1a085c44_1.jpg
+
+newmtl Edif_cio_do_Banco_Tai_Fung_e_Edif_cio_CNAC_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.568627 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Edif_cio_do_Banco_Tai_Fung_e_Edif_cio_CNAC_1.jpg
+
+newmtl M_01bx3p_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.647059 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_01bx3p_4.jpg
+
+newmtl M_01bx3p_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.925490 0.905882 0.882353
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_01bx3p_3.jpg
+
+newmtl M_01bx3p_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.556863 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_01bx3p_1.jpg
+
+newmtl M_01bx3p_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.745098 0.686275 0.643137
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_01bx3p_2.jpg
+
+newmtl Edif_cio_do_Banco_Tai_Fung_e_Edif_cio_CNAC_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.443137 0.403922 0.305882
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Edif_cio_do_Banco_Tai_Fung_e_Edif_cio_CNAC_3.jpg
+
+newmtl nape5_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.501961 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape5_1.jpg
+
+newmtl nape6_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.568627 0.596078
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape6_4.jpg
+
+newmtl nape6_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.662745 0.698039
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape6_3.jpg
+
+newmtl nape9_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.572549 0.650980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape9_3.jpg
+
+newmtl nape7_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.474510 0.509804
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape7_3.jpg
+
+newmtl nape9_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.717647 0.768627
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape9_4.jpg
+
+newmtl nape9_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.701961 0.725490 0.776471
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape9_2.jpg
+
+newmtl nape7_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.529412 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape7_4.jpg
+
+newmtl nape8_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.192157 0.188235 0.180392
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape8_2.jpg
+
+newmtl nape8_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.474510 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape8_3.jpg
+
+newmtl nape8_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.694118 0.729412
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape8_4.jpg
+
+newmtl nape10_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.458824 0.486275
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape10_1.jpg
+
+newmtl nape12_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.486275 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape12_3.jpg
+
+newmtl nape12_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.521569 0.552941
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape12_2.jpg
+
+newmtl nape11_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.474510 0.509804
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape11_4.jpg
+
+newmtl nape11_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.313725 0.309804
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape11_3.jpg
+
+newmtl nape11_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.313725 0.290196 0.286275
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape11_2.jpg
+
+newmtl nape13_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.580392 0.596078
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape13_4.jpg
+
+newmtl nape13_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.588235 0.596078
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape13_3.jpg
+
+newmtl nape14_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.576471 0.611765
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape14_5.jpg
+
+newmtl nape14_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.549020 0.592157
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape14_4.jpg
+
+newmtl nape14_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.576471 0.603922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape14_2.jpg
+
+newmtl nape15_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.662745 0.682353
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape15_1.jpg
+
+newmtl Google_Earth_Snapshot1
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.541176 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot1.jpg
+
+newmtl M_20150110_131003_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.203922 0.227451
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150110_131003_1.jpg
+
+newmtl M_20150110_131410_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.839216 0.847059 0.843137
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150110_131410_2.jpg
+
+newmtl M_20150110_131410_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.850980 0.866667
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150110_131410_4.jpg
+
+newmtl M_20150110_131410_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.235294 0.235294
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150110_131410_3.jpg
+
+newmtl M_20150110_131626_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.501961 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150110_131626_1.jpg
+
+newmtl M_20150110_131938_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.572549 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150110_131938_1.jpg
+
+newmtl M_20150110_130441_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.443137 0.521569
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150110_130441_1.jpg
+
+newmtl M_20150110_131624_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.647059 0.678431
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150110_131624_2.jpg
+
+newmtl M_20150110_131410_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.407843 0.439216
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150110_131410_1.jpg
+
+newmtl M_20150110_131626_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.701961 0.662745
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150110_131626_2.jpg
+
+newmtl M_20150110_131055_0__1
+Ka 0.000000 0.000000 0.000000
+Kd 0.250980 0.250980 0.258824
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150110_131055_0__1.jpg
+
+newmtl M_20150110_131429_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.396078 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150110_131429_1.jpg
+
+newmtl drop_result_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.615686 0.541176
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_8.jpg
+
+newmtl drop_result1_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.572549 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result1_2.jpg
+
+newmtl drop_result_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.266667 0.247059
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_6.jpg
+
+newmtl drop_result1_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.396078 0.360784
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result1_3.jpg
+
+newmtl drop_result_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.650980 0.713725
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_7.jpg
+
+newmtl Google_Earth_Snapshot3
+Ka 0.000000 0.000000 0.000000
+Kd 0.364706 0.360784 0.392157
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot3.jpg
+
+newmtl drop_result_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.039216 0.039216 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_10.jpg
+
+newmtl drop_result1_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.556863 0.486275
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result1_1.jpg
+
+newmtl drop_result_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.396078 0.372549 0.368627
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_9.jpg
+
+newmtl drop_result1
+Ka 0.000000 0.000000 0.000000
+Kd 0.443137 0.490196 0.513725
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result1.jpg
+
+newmtl drop_result_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.439216 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_2.jpg
+
+newmtl drop_result
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.509804 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result.jpg
+
+newmtl drop_result1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.509804 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result1_.jpg
+
+newmtl drop_result2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.509804 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_.jpg
+
+newmtl Google_Earth_Snapshot3_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.364706 0.360784 0.392157
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot3_1_.jpg
+
+newmtl drop_result_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.505882 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_1.jpg
+
+newmtl drop_result_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.274510 0.415686 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_4.jpg
+
+newmtl drop_result3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.509804 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result3_.jpg
+
+newmtl drop_result4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.509804 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result4_.jpg
+
+newmtl drop_result5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.509804 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result5_.jpg
+
+newmtl drop_result6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.509804 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result6_.jpg
+
+newmtl drop_result7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.509804 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result7_.jpg
+
+newmtl drop_result8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.509804 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result8_.jpg
+
+newmtl drop_result_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.486275 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_3.jpg
+
+newmtl drop_result9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.509804 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result9_.jpg
+
+newmtl drop_result_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.478431 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_5.jpg
+
+newmtl drop_result_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.458824 0.545098 0.611765
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_11.jpg
+
+newmtl drop_result_12
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.600000 0.666667
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_12.jpg
+
+newmtl drop_result_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.568627 0.623529
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_13.jpg
+
+newmtl drop_result_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.600000 0.666667
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_14.jpg
+
+newmtl Google_Earth_Snapshot4
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.376471 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot4.jpg
+
+newmtl Sophie_Shirt_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.376471 0.376471
+Ks 0.330000 0.330000 0.330000
+
+newmtl drop_result_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.568627 0.623529
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_15.jpg
+
+newmtl _Beige_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.827451 0.741176 0.564706
+Ks 0.330000 0.330000 0.330000
+
+newmtl _32
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.078431 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_32.jpg
+
+newmtl drop_result_16
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.447059 0.443137
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_16.jpg
+
+newmtl drop_result_17
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.443137 0.462745
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_17.jpg
+
+newmtl drop_result_18
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.556863 0.556863
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_18.jpg
+
+newmtl drop_result_19
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.556863 0.556863
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_19.jpg
+
+newmtl Sophie_Shoes
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.176471 0.156863
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_H13
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.600000 0.600000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Charcoal_
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_360____20121002180653_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1.jpg
+
+newmtl M_360____20121002180653
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653.jpg
+
+newmtl M_360____20121002180653_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_.jpg
+
+newmtl M_360____20121002180653_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_2_.jpg
+
+newmtl M_360____20121002180653_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_3_.jpg
+
+newmtl M_360____20121002180653_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_4_.jpg
+
+newmtl M_360____20121002180653_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_5_.jpg
+
+newmtl M_360____20121002180653_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_6_.jpg
+
+newmtl M_360____20121002180653_1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_1_.jpg
+
+newmtl M_360____20121002180653_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_7_.jpg
+
+newmtl M_360____20121002180653_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_8_.jpg
+
+newmtl M_360____20121002180653_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_9_.jpg
+
+newmtl M_360____20121002180653_1_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_2_.jpg
+
+newmtl M_360____20121002180653_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_10_.jpg
+
+newmtl M_360____20121002180653_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_11_.jpg
+
+newmtl M_360____20121002180653_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_12_.jpg
+
+newmtl drop_result2
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2.jpg
+
+newmtl drop_result2_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_1_.jpg
+
+newmtl drop_result2_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_2_.jpg
+
+newmtl drop_result2_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_3_.jpg
+
+newmtl drop_result1_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.458824 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result1_4.jpg
+
+newmtl drop_result2_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_4_.jpg
+
+newmtl drop_result2_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_5_.jpg
+
+newmtl drop_result2_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_6_.jpg
+
+newmtl drop_result2_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_7_.jpg
+
+newmtl drop_result2_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_8_.jpg
+
+newmtl drop_result2_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_9_.jpg
+
+newmtl drop_result2_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_10_.jpg
+
+newmtl drop_result2_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_11_.jpg
+
+newmtl drop_result2_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_12_.jpg
+
+newmtl drop_result2_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_13_.jpg
+
+newmtl drop_result2_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_14_.jpg
+
+newmtl drop_result2_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_15_.jpg
+
+newmtl drop_result2_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_16_.jpg
+
+newmtl drop_result2_17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_17_.jpg
+
+newmtl drop_result2_18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_18_.jpg
+
+newmtl Google_Earth_Snapshot5
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.517647 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot5.jpg
+
+newmtl Google_Earth_Snapshot5_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.517647 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot5_1_.jpg
+
+newmtl Google_Earth_Snapshot5_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.517647 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot5_2_.jpg
+
+newmtl Google_Earth_Snapshot5_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.517647 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot5_3_.jpg
+
+newmtl Google_Earth_Snapshot5_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.517647 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot5_4_.jpg
+
+newmtl Google_Earth_Snapshot5_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.517647 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot5_5_.jpg
+
+newmtl drop_result2_19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_19_.jpg
+
+newmtl M_360____20121002180653_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_13_.jpg
+
+newmtl M_360____20121002180653_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_14_.jpg
+
+newmtl drop_result2_20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_20_.jpg
+
+newmtl M_360____20121002180653_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_15_.jpg
+
+newmtl M_360____20121002180653_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_16_.jpg
+
+newmtl M_360____20121002180653_17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_17_.jpg
+
+newmtl M_360____20121002180653_18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_18_.jpg
+
+newmtl M_360____20121002180653_19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_19_.jpg
+
+newmtl M_360____20121002180653_20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_20_.jpg
+
+newmtl M_360____20121002180653_21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_21_.jpg
+
+newmtl M_360____20121002180653_22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_22_.jpg
+
+newmtl M_360____20121002180653_23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_23_.jpg
+
+newmtl M_360____20121002180653_24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_24_.jpg
+
+newmtl M_360____20121002180653_25_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_25_.jpg
+
+newmtl drop_result2_21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_21_.jpg
+
+newmtl drop_result2_22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_22_.jpg
+
+newmtl drop_result2_23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_23_.jpg
+
+newmtl drop_result2_24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_24_.jpg
+
+newmtl drop_result2_25_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_25_.jpg
+
+newmtl drop_result2_26_
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.549020 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_26_.jpg
+
+newmtl Google_Earth_Snapshot5_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.517647 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot5_6_.jpg
+
+newmtl M_360____20121002180653_26_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_26_.jpg
+
+newmtl M_360____20121002180653_1_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_3_.jpg
+
+newmtl M_360____20121002180653_1_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_4_.jpg
+
+newmtl M_360____20121002180653_1_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_5_.jpg
+
+newmtl M_360____20121002180653_1_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_6_.jpg
+
+newmtl M_360____20121002180653_1_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_7_.jpg
+
+newmtl M_360____20121002180653_27_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_27_.jpg
+
+newmtl M_360____20121002180653_28_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_28_.jpg
+
+newmtl Google_Earth_Snapshot5_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.517647 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot5_7_.jpg
+
+newmtl M_360____20121002180653_1_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_8_.jpg
+
+newmtl M_360____20121002180653_1_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_9_.jpg
+
+newmtl M_360____20121002180653_1_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_10_.jpg
+
+newmtl M_360____20121002180653_29_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_29_.jpg
+
+newmtl M_360____20121002180653_1_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_11_.jpg
+
+newmtl M_360____20121002180653_1_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_12_.jpg
+
+newmtl M_360____20121002180653_1_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_13_.jpg
+
+newmtl M_360____20121002180653_1_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_14_.jpg
+
+newmtl M_360____20121002180653_30_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_30_.jpg
+
+newmtl M_360____20121002180653_31_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_31_.jpg
+
+newmtl M_360____20121002180653_1_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_15_.jpg
+
+newmtl M_360____20121002180653_32_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_32_.jpg
+
+newmtl M_360____20121002180653_33_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_33_.jpg
+
+newmtl M_360____20121002180653_34_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_34_.jpg
+
+newmtl M_360____20121002180653_35_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_35_.jpg
+
+newmtl M_360____20121002180653_36_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_36_.jpg
+
+newmtl M_360____20121002180653_37_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_37_.jpg
+
+newmtl M_360____20121002180653_1_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.627451 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_1_16_.jpg
+
+newmtl M_360____20121002180653_38_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_38_.jpg
+
+newmtl M_360____20121002180653_39_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_39_.jpg
+
+newmtl M_360____20121002180653_40_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_40_.jpg
+
+newmtl M_360____20121002180653_41_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_41_.jpg
+
+newmtl M_360____20121002180653_42_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_42_.jpg
+
+newmtl M_360____20121002180653_43_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_43_.jpg
+
+newmtl M_360____20121002180653_44_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_44_.jpg
+
+newmtl M_360____20121002180653_45_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_45_.jpg
+
+newmtl M_360____20121002180653_46_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_46_.jpg
+
+newmtl M_360____20121002180653_47_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_47_.jpg
+
+newmtl M_360____20121002180653_48_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_48_.jpg
+
+newmtl M_360____20121002180653_49_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.403922 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_360____20121002180653_49_.jpg
+
+newmtl _35
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.619608 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_35.jpg
+
+newmtl _33
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.556863 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_33.jpg
+
+newmtl _34
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.400000 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_34.jpg
+
+newmtl pc145_03_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.654902 0.662745
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/pc145_03_3.jpg
+
+newmtl M_3235_macau_AIA_Tower_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.592157 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_3235_macau_AIA_Tower_1.jpg
+
+newmtl distructA
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.376471 0.392157
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/distructA.png
+
+newmtl pc145_03_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.501961 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/pc145_03_1.jpg
+
+newmtl _39
+Ka 0.000000 0.000000 0.000000
+Kd 0.356863 0.423529 0.466667
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_39.jpg
+
+newmtl pc145_03_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.580392 0.592157
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/pc145_03_8.jpg
+
+newmtl _37
+Ka 0.000000 0.000000 0.000000
+Kd 0.858824 0.839216 0.847059
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_37.jpg
+
+newmtl M_8478_20150924090916_ru6du_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.498039 0.560784
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_8478_20150924090916_ru6du_2.jpg
+
+newmtl _40
+Ka 0.000000 0.000000 0.000000
+Kd 0.705882 0.752941 0.768627
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_40.jpg
+
+newmtl M_8478_20150924090916_ru6du_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.388235 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_8478_20150924090916_ru6du_3.jpg
+
+newmtl M_8478_20150924090916_ru6du_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.596078 0.635294
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_8478_20150924090916_ru6du_1.jpg
+
+newmtl pc145_03_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.694118 0.682353
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/pc145_03_6.jpg
+
+newmtl nyao_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.701961 0.694118 0.737255
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nyao_3.jpg
+
+newmtl nyao_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.654902 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nyao_4.jpg
+
+newmtl M_9a01df5d_e4c7_4694_a282_8ee69a91e62a_720X480_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.419608 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_9a01df5d_e4c7_4694_a282_8ee69a91e62a_720X480_3.jpg
+
+newmtl M_9a01df5d_e4c7_4694_a282_8ee69a91e62a_720X480_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.611765 0.698039
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_9a01df5d_e4c7_4694_a282_8ee69a91e62a_720X480_2.jpg
+
+newmtl M_9a01df5d_e4c7_4694_a282_8ee69a91e62a_720X480_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.396078 0.443137
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_9a01df5d_e4c7_4694_a282_8ee69a91e62a_720X480_1.jpg
+
+newmtl M_20150402143359644_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.490196 0.368627
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150402143359644_1.jpg
+
+newmtl M_20150402143359644_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.772549 0.615686 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150402143359644_3.jpg
+
+newmtl M_20150402143359644_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.431373 0.325490
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150402143359644_2.jpg
+
+newmtl M_04bc2p_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.533333 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_04bc2p_1.jpg
+
+newmtl M_20150402143359644_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.498039 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20150402143359644_4.jpg
+
+newmtl M_20141013165437817_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.521569 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20141013165437817_3.jpg
+
+newmtl M_20141013165437817_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.580392 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20141013165437817_2.jpg
+
+newmtl _38
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.239216 0.235294
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_38.jpg
+
+newmtl pc145_03_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.772549 0.721569 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/pc145_03_5.jpg
+
+newmtl M_1680_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.882353 0.870588 0.792157
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_1680_4.jpg
+
+newmtl M_20141013165437817_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.568627 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_20141013165437817_1.jpg
+
+newmtl vidrios_b
+Ka 0.000000 0.000000 0.000000
+Kd 0.396078 0.458824 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/vidrios_b.jpg
+
+newmtl nape10_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.713725 0.847059
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/nape10_2.jpg
+
+newmtl M_1680_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.698039 0.631373
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_1680_3.jpg
+
+newmtl M_1680_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.650980 0.568627
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_1680_1.jpg
+
+newmtl M_1680_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.662745 0.592157
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_1680_2.jpg
+
+newmtl fit5_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.325490 0.333333 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/fit5_1.jpg
+
+newmtl fit1_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.815686 0.811765 0.850980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/fit1_1.jpg
+
+newmtl fit3_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.603922 0.662745
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/fit3_1.jpg
+
+newmtl fit4_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.494118 0.541176
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/fit4_2.jpg
+
+newmtl fit2_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.313725 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/fit2_1.jpg
+
+newmtl fit6_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.694118 0.749020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/fit6_1.jpg
+
+newmtl macau02_1__13
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.592157 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__13.jpg
+
+newmtl _36
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.517647 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_36.jpg
+
+newmtl macau02_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.658824 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1_.jpg
+
+newmtl macau02_1__15
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.501961 0.486275
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__15.jpg
+
+newmtl macau02_1__17
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.505882 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__17.jpg
+
+newmtl macau02_1__14
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.533333 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__14.jpg
+
+newmtl macau02_1__12
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.407843 0.384314
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__12.jpg
+
+newmtl macau02_1__5
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.521569 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__5.jpg
+
+newmtl macau02_1__19
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.400000 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__19.jpg
+
+newmtl macau02_1__18
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.592157 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__18.jpg
+
+newmtl macau02_1__3
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.360784 0.345098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__3.jpg
+
+newmtl macau02_1__16
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.533333 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__16.jpg
+
+newmtl macau02_1__2
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.392157 0.372549
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__2.jpg
+
+newmtl macau02_1__4
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.529412 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__4.jpg
+
+newmtl macau02_1__6
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.521569 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__6.jpg
+
+newmtl macau02_1__7
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.301961 0.262745
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__7.jpg
+
+newmtl macau02_1__9
+Ka 0.000000 0.000000 0.000000
+Kd 0.458824 0.423529 0.384314
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__9.jpg
+
+newmtl macau02_1__10
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.298039 0.274510
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__10.jpg
+
+newmtl Google_Earth_Snapshot6
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.419608 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Google_Earth_Snapshot6.jpg
+
+newmtl macau02_1__20
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.329412 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__20.jpg
+
+newmtl macau02_1__11
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.282353 0.250980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__11.jpg
+
+newmtl macau02_1__8
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.368627 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/macau02_1__8.jpg
+
+newmtl _Redwood_
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.396078 0.321569
+Ks 0.330000 0.330000 0.330000
+
+newmtl drop_result_20
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.356863 0.384314
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_20.jpg
+
+newmtl drop_result_21
+Ka 0.000000 0.000000 0.000000
+Kd 0.329412 0.462745 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_21.jpg
+
+newmtl Color_D02
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.800000 0.196078
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_005
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.447059 0.447059
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.505882 0.556863
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_7.jpg
+
+newmtl Color_009
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_A01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Translucent_Glass_Sky_Reflection
+Ka 0.000000 0.000000 0.000000
+Kd 0.843137 0.949020 1.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Translucent_Glass_Sky_Reflection.jpg
+
+newmtl drop_result2_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.925490 0.898039 0.745098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_1.jpg
+
+newmtl drop_result2_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.607843 0.560784
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_2.jpg
+
+newmtl drop_result3
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.556863 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result3.jpg
+
+newmtl drop_result3_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.556863 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result3_1_.jpg
+
+newmtl drop_result3_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.556863 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result3_2_.jpg
+
+newmtl drop_result3_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.556863 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result3_3_.jpg
+
+newmtl drop_result2_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.505882 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result2_3.jpg
+
+newmtl M_96_96_96
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.376471 0.376471
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_B24
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.137255 0.117647
+Ks 0.330000 0.330000 0.330000
+
+newmtl _LightGray_
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.662745 0.662745
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_0135_DarkGray
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.317647 0.317647
+Ks 0.330000 0.330000 0.330000
+
+newmtl jean_blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.184314 0.258824
+Ks 0.330000 0.330000 0.330000
+
+newmtl drop_result_24
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.650980 0.466667
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_24.jpg
+
+newmtl drop_result_23
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.619608 0.423529
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_23.jpg
+
+newmtl drop_result_26
+Ka 0.000000 0.000000 0.000000
+Kd 0.360784 0.396078 0.345098
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_26.jpg
+
+newmtl drop_result_22
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.533333 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_22.jpg
+
+newmtl drop_result_25
+Ka 0.000000 0.000000 0.000000
+Kd 0.705882 0.690196 0.513725
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/drop_result_25.jpg
+
+newmtl Color_H08
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.850980 0.850980
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Color_H04_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.964706 0.960784
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Color_H04_.jpg
+
+newmtl Fencing_Picket_Concave
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.635294 0.654902
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Picket_Concave.png
+
+newmtl Color_008
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Fencing_Metal_Straight_
+Ka 0.000000 0.000000 0.000000
+Kd 0.121569 0.454902 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Fencing_Metal_Straight_.png
+
+newmtl Carpet_Plush_Charcoal
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.341176 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Carpet_Plush_Charcoal.jpg
+
+newmtl Metal_Steel_Textured_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.749020 0.749020 0.749020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Metal_Steel_Textured_White.jpg
+
+newmtl Photo_Texture2
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.525490 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture2.jpg
+
+newmtl Photo_Texture2_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.525490 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture2_1_.jpg
+
+newmtl Photo_Texture2_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.525490 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture2_2_.jpg
+
+newmtl Photo_Texture3_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.725490 0.745098 0.694118
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture3_1.jpg
+
+newmtl Photo_Texture2_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.525490 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture2_3_.jpg
+
+newmtl Photo_Texture2_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.525490 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture2_4_.jpg
+
+newmtl Photo_Texture2_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.525490 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture2_5_.jpg
+
+newmtl Photo_Texture2_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.525490 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture2_6_.jpg
+
+newmtl Photo_Texture2_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.525490 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture2_7_.jpg
+
+newmtl Photo_Texture2_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.525490 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture2_8_.jpg
+
+newmtl Photo_Texture2_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.525490 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture2_9_.jpg
+
+newmtl Photo_Texture2_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.525490 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture2_10_.jpg
+
+newmtl Photo_Texture2_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.525490 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture2_11_.jpg
+
+newmtl Photo_Texture
+Ka 0.000000 0.000000 0.000000
+Kd 0.772549 0.772549 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture.jpg
+
+newmtl Color_D05
+Ka 0.000000 0.000000 0.000000
+Kd 0.803922 0.764706 0.650980
+Ks 0.330000 0.330000 0.330000
+
+newmtl Photo_Texture1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.772549 0.772549 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture1_.jpg
+
+newmtl Photo_Texture2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.772549 0.772549 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Photo_Texture2_.jpg
+
+newmtl Fencing_Diamond_Mesh
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.607843 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Diamond_Mesh.png
+
+newmtl Grey_30_
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.330000 0.330000 0.330000
+
+newmtl White
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Lifeboat
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.847059 0.050980
+Ks 0.330000 0.330000 0.330000
+
+newmtl Grey_60_
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.337255 0.337255
+Ks 0.330000 0.330000 0.330000
+
+newmtl Grey_20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.776471
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_H01
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.580392 0.749020
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Color_001_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.886275 0.886275 0.886275
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+
+newmtl Color_003
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.658824 0.658824
+Ks 0.330000 0.330000 0.330000
+
+newmtl Translucent_Glass_Red
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl Translucent_Glass_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.584314 0.929412
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl _auto_2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Wood_Floor_Light_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.690196 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Wood_Floor_Light_1.jpg
+
+newmtl Roofing_Metal_Standing_Seam_Red
+Ka 0.000000 0.000000 0.000000
+Kd 0.650980 0.274510 0.227451
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Roofing_Metal_Standing_Seam_Red.jpg
+
+newmtl _Gray_Glass_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.156863 0.156863 0.156863
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_B01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.247059 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_A06
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_006
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.337255 0.337255
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Color_E01_1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_I01
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_F01
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 1.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_L01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.498039
+Ks 0.330000 0.330000 0.330000
+
+newmtl _DarkGoldenrod_
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.525490 0.043137
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Gray6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.376471 0.376471
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Brown_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.345098 0.211765
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Black_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl jean_blue1
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.427451 0.639216
+Ks 0.330000 0.330000 0.330000
+
+newmtl _DarkGray_
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.317647 0.317647
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Smooth_Face_Concrete_Block_
+Ka 0.000000 0.000000 0.000000
+Kd 0.803922 0.772549 0.772549
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Smooth_Face_Concrete_Block_.jpg
+
+newmtl _Mini_Blinds_
+Ka 0.000000 0.000000 0.000000
+Kd 0.403922 0.615686 0.862745
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Mini_Blinds_.jpg
+
+newmtl _CorrogateShiny_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_CorrogateShiny_.jpg
+
+newmtl _Concrete_Tile_
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Concrete_Tile_.jpg
+
+newmtl Metal_Panel
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.615686 0.619608
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Metal_Panel.jpg
+
+newmtl _Metal_floor_
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.431373 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Metal_floor_.jpg
+
+newmtl Metal_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.760784 0.796078 0.760784
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Metal_2.jpg
+
+newmtl _Concrete_
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.654902 0.654902
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Concrete_.jpg
+
+newmtl Translucent_Glass_Safety
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.921569 0.956863
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+map_Kd Venice part model_Greed Portion for AR/Translucent_Glass_Safety.jpg
+
+newmtl Translucent_Glass_Gold
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.996078 0.101961
+Ks 0.330000 0.330000 0.330000
+d 0.600000
+map_Kd Venice part model_Greed Portion for AR/Translucent_Glass_Gold.jpg
+
+newmtl Color_G07
+Ka 0.000000 0.000000 0.000000
+Kd 0.156863 0.800000 0.156863
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Color_003_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_002
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.776471
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_G01
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 1.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Purple_
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.000000 0.501961
+Ks 0.330000 0.330000 0.330000
+
+newmtl _51
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.498039 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_51.jpg
+
+newmtl Color_D01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.749020 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Metal_Corrogated_Shiny_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Metal_Corrogated_Shiny_1.jpg
+
+newmtl _50
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.749020 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Fencing_Chain_Link_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.894118 0.894118 0.894118
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Fencing_Chain_Link_4.png
+
+newmtl _52
+Ka 0.000000 0.000000 0.000000
+Kd 0.325490 0.141176 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_52.jpg
+
+newmtl M_0002_MediumVioletRed
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.439216 0.384314
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/M_0002_MediumVioletRed.jpg
+
+newmtl Color_D06
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.600000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Glasses_Black
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.168627
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Edges
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Skin
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.654902 0.521569
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Jacket
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.407843 0.400000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Jacket2
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.313725 0.407843
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Book
+Ka 0.000000 0.000000 0.000000
+Kd 0.780392 0.780392 0.780392
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Shirt
+Ka 0.000000 0.000000 0.000000
+Kd 0.772549 0.886275 0.870588
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Glasses_Amber
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.121569 0.082353
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Hair
+Ka 0.000000 0.000000 0.000000
+Kd 0.898039 0.898039 0.882353
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Shoes2
+Ka 0.000000 0.000000 0.000000
+Kd 0.364706 0.364706 0.364706
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Pants
+Ka 0.000000 0.000000 0.000000
+Kd 0.203922 0.243137 0.247059
+Ks 0.330000 0.330000 0.330000
+
+newmtl Fencing_Metal_Straight
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight.png
+
+newmtl Metal_Steel_Textured
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.431373 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Metal_Steel_Textured.jpg
+
+newmtl Carpet_Loop_Pattern
+Ka 0.000000 0.000000 0.000000
+Kd 0.650980 0.541176 0.349020
+Ks 0.330000 0.330000 0.330000
+
+newmtl Blinds_Weave
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.466667 0.294118
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Weave.jpg
+
+newmtl Blinds_Cloth_Horizontal
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal.jpg
+
+newmtl _Metal_Corrogated_Shiny_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.415686 0.250980
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Metal_Corrogated_Shiny_3.jpg
+
+newmtl Blinds_Cloth_Horizontal1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal1_.jpg
+
+newmtl Metal_Brass_Ceiling
+Ka 0.000000 0.000000 0.000000
+Kd 0.862745 0.600000 0.176471
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Metal_Brass_Ceiling.jpg
+
+newmtl Carpet_Plush_Forest
+Ka 0.000000 0.000000 0.000000
+Kd 0.345098 0.392157 0.337255
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Carpet_Plush_Forest.jpg
+
+newmtl Blinds_Cloth_Horizontal2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal2_.jpg
+
+newmtl Blinds_Cloth_Horizontal3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal3_.jpg
+
+newmtl Blinds_Cloth_Horizontal4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal4_.jpg
+
+newmtl Blinds_Cloth_Horizontal5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal5_.jpg
+
+newmtl Blinds_Cloth_Horizontal6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal6_.jpg
+
+newmtl Blinds_Cloth_Horizontal7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal7_.jpg
+
+newmtl Blinds_Cloth_Horizontal8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal8_.jpg
+
+newmtl Blinds_Cloth_Horizontal9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal9_.jpg
+
+newmtl Blinds_Cloth_Horizontal10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal10_.jpg
+
+newmtl Blinds_Cloth_Horizontal11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal11_.jpg
+
+newmtl Blinds_Cloth_Horizontal12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal12_.jpg
+
+newmtl Metal_Panel1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.188235 0.207843 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Metal_Panel1_.jpg
+
+newmtl Blinds_Cloth_Horizontal13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal13_.jpg
+
+newmtl Blinds_Cloth_Horizontal14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal14_.jpg
+
+newmtl Blinds_Cloth_Horizontal15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal15_.jpg
+
+newmtl Blinds_Cloth_Horizontal16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal16_.jpg
+
+newmtl Blinds_Cloth_Horizontal17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal17_.jpg
+
+newmtl Blinds_Cloth_Horizontal18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal18_.jpg
+
+newmtl Blinds_Cloth_Horizontal19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal19_.jpg
+
+newmtl Blinds_Cloth_Horizontal20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal20_.jpg
+
+newmtl Blinds_Cloth_Horizontal21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal21_.jpg
+
+newmtl Blinds_Cloth_Horizontal22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal22_.jpg
+
+newmtl Blinds_Cloth_Horizontal23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal23_.jpg
+
+newmtl Blinds_Cloth_Horizontal24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.592157 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Blinds_Cloth_Horizontal24_.jpg
+
+newmtl _Metal_Aluminum_Anodized_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.858824 0.721569 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Metal_Aluminum_Anodized_1.jpg
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.482353 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Metal_Aluminum_Anodized.jpg
+
+newmtl _54
+Ka 0.000000 0.000000 0.000000
+Kd 0.988235 1.000000 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_54.jpg
+
+newmtl _Translucent_Glass_Tinted_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Translucent_Glass_Tinted_1.jpg
+
+newmtl Fencing_Weathered
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.745098 0.729412
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Weathered.jpg
+
+newmtl _Wood_Bamboo_Medium_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.411765 0.168627
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Wood_Bamboo_Medium_1.jpg
+
+newmtl _44
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.831373 0.909804
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_44.jpg
+
+newmtl Translucent_Glass_Block_Dark
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.486275 0.466667
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Translucent_Glass_Block_Dark.jpg
+
+newmtl Vegetation_Blur3
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.529412 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Vegetation_Blur3.jpg
+
+newmtl Wood__Floor
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.411765 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Wood__Floor.jpg
+
+newmtl Fencing_Metal_Straight1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight1_.png
+
+newmtl Fencing_Metal_Straight2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight2_.png
+
+newmtl Fencing_Metal_Straight3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight3_.png
+
+newmtl Fencing_Metal_Straight4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight4_.png
+
+newmtl Fencing_Metal_Straight5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight5_.png
+
+newmtl Fencing_Metal_Straight6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight6_.png
+
+newmtl Fencing_Metal_Straight7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight7_.png
+
+newmtl Fencing_Metal_Straight8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight8_.png
+
+newmtl Fencing_Metal_Straight9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight9_.png
+
+newmtl Fencing_Metal_Straight10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight10_.png
+
+newmtl Fencing_Metal_Straight11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight11_.png
+
+newmtl _43
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.196078 0.258824
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_007
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.258824 0.258824
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Translucent_Glass_Sky_Reflection_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.541176 0.709804
+Ks 0.330000 0.330000 0.330000
+d 0.520000
+map_Kd Venice part model_Greed Portion for AR/_Translucent_Glass_Sky_Reflection_1.jpg
+
+newmtl Wood_Lumber_ButtJoined
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.364706 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Wood_Lumber_ButtJoined.jpg
+
+newmtl Water_Pool
+Ka 0.000000 0.000000 0.000000
+Kd 0.250980 0.584314 0.654902
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Water_Pool.jpg
+
+newmtl Stone_Flagstone_Ashlar
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.454902 0.400000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Stone_Flagstone_Ashlar.jpg
+
+newmtl Stone_Sandstone_Ashlar_Light
+Ka 0.000000 0.000000 0.000000
+Kd 0.807843 0.698039 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Stone_Sandstone_Ashlar_Light.jpg
+
+newmtl Stone_Masonry_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.686275 0.643137
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Stone_Masonry_Multi.jpg
+
+newmtl Stone_Pavers_Flagstone_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.635294 0.635294
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Stone_Pavers_Flagstone_Gray.jpg
+
+newmtl Textile_Leaves_Green
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.133333 0.627451
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Textile_Leaves_Green.jpg
+
+newmtl Fencing_Metal_Straight12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight12_.png
+
+newmtl Fencing_Metal_Straight13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight13_.png
+
+newmtl Fencing_Metal_Straight14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight14_.png
+
+newmtl Fencing_Metal_Straight15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight15_.png
+
+newmtl Fencing_Metal_Straight16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight16_.png
+
+newmtl Fencing_Metal_Straight17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight17_.png
+
+newmtl Fencing_Metal_Straight18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight18_.png
+
+newmtl Fencing_Metal_Straight19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight19_.png
+
+newmtl Fencing_Metal_Straight20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight20_.png
+
+newmtl Fencing_Metal_Straight21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight21_.png
+
+newmtl Fencing_Metal_Straight22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight22_.png
+
+newmtl Fencing_Metal_Straight23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight23_.png
+
+newmtl Fencing_Metal_Straight24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/Fencing_Metal_Straight24_.png
+
+newmtl _Brown_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.470588 0.215686
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Color_008_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.078431 0.078431
+Ks 0.330000 0.330000 0.330000
+
+newmtl _45
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.058824 0.058824
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Roofing_Shingles_GAF_Estates_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.301961 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Roofing_Shingles_GAF_Estates_1.jpg
+
+newmtl _DarkSeaGreen_
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.639216 0.337255
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Ashlar_Stone_
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.658824 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Ashlar_Stone_.jpg
+
+newmtl _49
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.462745 0.639216
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_49.jpg
+
+newmtl _48
+Ka 0.000000 0.000000 0.000000
+Kd 0.909804 0.372549 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_48.jpg
+
+newmtl _Stone_Granite_Midnite_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.372549 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Stone_Granite_Midnite_1.jpg
+
+newmtl _Vegetation_HoneyLocust_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.568627 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd Venice part model_Greed Portion for AR/_Vegetation_HoneyLocust_1.jpg
+
