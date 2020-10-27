@@ -1,0 +1,56 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl entry_intovenice_fraud_copy
+Ka 0.000000 0.000000 0.000000
+Kd 0.403922 0.486275 0.513725
+Ks 0.330000 0.330000 0.330000
+map_Kd fraud illusions at the gate/entry_intovenice_fraud_copy.png
+
+newmtl Color_E01
+Ka 0.000000 0.000000 0.000000
+Kd 0.803922 0.827451 0.403922
+Ks 0.330000 0.330000 0.330000
+d 0.140000
+
+newmtl image
+Ka 0.000000 0.000000 0.000000
+Kd 0.803922 0.827451 0.403922
+Ks 0.330000 0.330000 0.330000
+d 0.140000
+
+newmtl _____4
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.443137 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd fraud illusions at the gate/_____4.jpg
+
+newmtl _23
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.525490 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd fraud illusions at the gate/_23.jpg
+
+newmtl _____3
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.450980 0.400000
+Ks 0.330000 0.330000 0.330000
+d 0.860000
+map_Kd fraud illusions at the gate/_____3.jpg
+
+newmtl _Burnt_Umber_
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.596078 0.521569
+Ks 0.330000 0.330000 0.330000
+
+newmtl _DarkSalmon_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.462745 0.376471
+Ks 0.330000 0.330000 0.330000
+
