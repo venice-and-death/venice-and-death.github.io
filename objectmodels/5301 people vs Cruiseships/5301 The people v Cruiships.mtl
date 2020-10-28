@@ -2,17 +2,40 @@
 ## Alias OBJ Material File
 # Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
 
+newmtl Translucent_Glass_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.584314 0.929412
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl _auto_
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Wood_Floor_Light_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.690196 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/_Wood_Floor_Light_1.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Roofing_Metal_Standing_Seam_Red
+Ka 0.000000 0.000000 0.000000
+Kd 0.650980 0.274510 0.227451
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Roofing_Metal_Standing_Seam_Red.jpg
+
 newmtl Grey_30_
 Ka 0.000000 0.000000 0.000000
 Kd 0.666667 0.666667 0.666667
 Ks 0.330000 0.330000 0.330000
 
 newmtl White
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.330000 0.330000 0.330000
-
-newmtl FrontColor
 Ka 0.000000 0.000000 0.000000
 Kd 1.000000 1.000000 1.000000
 Ks 0.330000 0.330000 0.330000
@@ -59,28 +82,40 @@ Kd 1.000000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
 d 0.500000
 
-newmtl Translucent_Glass_Blue
+newmtl Color_B01
 Ka 0.000000 0.000000 0.000000
-Kd 0.392157 0.584314 0.929412
-Ks 0.330000 0.330000 0.330000
-d 0.500000
-
-newmtl _auto_
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
+Kd 1.000000 0.247059 0.000000
 Ks 0.330000 0.330000 0.330000
 
-newmtl _Wood_Floor_Light_1
+newmtl Color_A06
 Ka 0.000000 0.000000 0.000000
-Kd 0.800000 0.690196 0.498039
+Kd 0.800000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/_Wood_Floor_Light_1.jpg
 
-newmtl Roofing_Metal_Standing_Seam_Red
+newmtl Color_006
 Ka 0.000000 0.000000 0.000000
-Kd 0.650980 0.274510 0.227451
+Kd 0.337255 0.337255 0.337255
 Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/Roofing_Metal_Standing_Seam_Red.jpg
+
+newmtl _Color_E01_1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_I01
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_F01
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 1.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_L01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.498039
+Ks 0.330000 0.330000 0.330000
 
 newmtl _Gray_Glass_1
 Ka 0.000000 0.000000 0.000000
@@ -91,6 +126,101 @@ newmtl _DarkGoldenrod_
 Ka 0.000000 0.000000 0.000000
 Kd 0.721569 0.525490 0.043137
 Ks 0.330000 0.330000 0.330000
+
+newmtl Color_A01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _25
+Ka 0.000000 0.000000 0.000000
+Kd 0.325490 0.141176 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/_25.jpg
+
+newmtl _Metal_Steel_Textured_White_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.749020 0.749020 0.749020
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/_Metal_Steel_Textured_White_1.jpg
+
+newmtl M_0002_MediumVioletRed
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.439216 0.384314
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/M_0002_MediumVioletRed.jpg
+
+newmtl Color_D06
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.600000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Glasses_Black
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.168627
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Edges
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Skin
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.654902 0.521569
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Jacket
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.407843 0.400000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Jacket2
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.313725 0.407843
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Book
+Ka 0.000000 0.000000 0.000000
+Kd 0.780392 0.780392 0.780392
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Shirt
+Ka 0.000000 0.000000 0.000000
+Kd 0.772549 0.886275 0.870588
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Glasses_Amber
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.121569 0.082353
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Hair
+Ka 0.000000 0.000000 0.000000
+Kd 0.898039 0.898039 0.882353
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Shoes2
+Ka 0.000000 0.000000 0.000000
+Kd 0.364706 0.364706 0.364706
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steve_Pants
+Ka 0.000000 0.000000 0.000000
+Kd 0.203922 0.243137 0.247059
+Ks 0.330000 0.330000 0.330000
+
+newmtl Fencing_Metal_Straight
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight.png
+
+newmtl Metal_Steel_Textured
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.431373 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Metal_Steel_Textured.jpg
 
 newmtl _Gray6_
 Ka 0.000000 0.000000 0.000000
@@ -193,136 +323,6 @@ Kd 1.000000 0.996078 0.101961
 Ks 0.330000 0.330000 0.330000
 d 0.600000
 map_Kd 5301 The people v Cruiships/Translucent_Glass_Gold.jpg
-
-newmtl Color_B01
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 0.247059 0.000000
-Ks 0.330000 0.330000 0.330000
-
-newmtl Color_A06
-Ka 0.000000 0.000000 0.000000
-Kd 0.800000 0.000000 0.000000
-Ks 0.330000 0.330000 0.330000
-
-newmtl Color_006
-Ka 0.000000 0.000000 0.000000
-Kd 0.337255 0.337255 0.337255
-Ks 0.330000 0.330000 0.330000
-
-newmtl _Color_E01_1
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 0.000000
-Ks 0.330000 0.330000 0.330000
-
-newmtl Color_I01
-Ka 0.000000 0.000000 0.000000
-Kd 0.000000 0.000000 1.000000
-Ks 0.330000 0.330000 0.330000
-
-newmtl Color_F01
-Ka 0.000000 0.000000 0.000000
-Kd 0.498039 1.000000 0.000000
-Ks 0.330000 0.330000 0.330000
-
-newmtl Color_L01
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 0.000000 0.498039
-Ks 0.330000 0.330000 0.330000
-
-newmtl Color_A01
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 0.000000 0.000000
-Ks 0.330000 0.330000 0.330000
-
-newmtl _25
-Ka 0.000000 0.000000 0.000000
-Kd 0.325490 0.141176 0.078431
-Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/_25.jpg
-
-newmtl _Metal_Steel_Textured_White_1
-Ka 0.000000 0.000000 0.000000
-Kd 0.749020 0.749020 0.749020
-Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/_Metal_Steel_Textured_White_1.jpg
-
-newmtl M_0002_MediumVioletRed
-Ka 0.000000 0.000000 0.000000
-Kd 0.537255 0.439216 0.384314
-Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/M_0002_MediumVioletRed.jpg
-
-newmtl Color_D06
-Ka 0.000000 0.000000 0.000000
-Kd 0.800000 0.600000 0.000000
-Ks 0.330000 0.330000 0.330000
-
-newmtl Steve_Glasses_Black
-Ka 0.000000 0.000000 0.000000
-Kd 0.168627 0.168627 0.168627
-Ks 0.330000 0.330000 0.330000
-
-newmtl Steve_Edges
-Ka 0.000000 0.000000 0.000000
-Kd 0.000000 0.000000 0.000000
-Ks 0.330000 0.330000 0.330000
-
-newmtl Steve_Skin
-Ka 0.000000 0.000000 0.000000
-Kd 0.792157 0.654902 0.521569
-Ks 0.330000 0.330000 0.330000
-
-newmtl Steve_Jacket
-Ka 0.000000 0.000000 0.000000
-Kd 0.270588 0.407843 0.400000
-Ks 0.330000 0.330000 0.330000
-
-newmtl Steve_Jacket2
-Ka 0.000000 0.000000 0.000000
-Kd 0.227451 0.313725 0.407843
-Ks 0.330000 0.330000 0.330000
-
-newmtl Steve_Book
-Ka 0.000000 0.000000 0.000000
-Kd 0.780392 0.780392 0.780392
-Ks 0.330000 0.330000 0.330000
-
-newmtl Steve_Shirt
-Ka 0.000000 0.000000 0.000000
-Kd 0.772549 0.886275 0.870588
-Ks 0.330000 0.330000 0.330000
-
-newmtl Steve_Glasses_Amber
-Ka 0.000000 0.000000 0.000000
-Kd 0.568627 0.121569 0.082353
-Ks 0.330000 0.330000 0.330000
-
-newmtl Steve_Hair
-Ka 0.000000 0.000000 0.000000
-Kd 0.898039 0.898039 0.882353
-Ks 0.330000 0.330000 0.330000
-
-newmtl Steve_Shoes2
-Ka 0.000000 0.000000 0.000000
-Kd 0.364706 0.364706 0.364706
-Ks 0.330000 0.330000 0.330000
-
-newmtl Steve_Pants
-Ka 0.000000 0.000000 0.000000
-Kd 0.203922 0.243137 0.247059
-Ks 0.330000 0.330000 0.330000
-
-newmtl Fencing_Metal_Straight
-Ka 0.000000 0.000000 0.000000
-Kd 0.000000 0.000000 0.000000
-Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight.png
-
-newmtl Metal_Steel_Textured
-Ka 0.000000 0.000000 0.000000
-Kd 0.415686 0.431373 0.482353
-Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/Metal_Steel_Textured.jpg
 
 newmtl _Color_008_2
 Ka 0.000000 0.000000 0.000000
@@ -591,12 +591,6 @@ Kd 0.988235 1.000000 0.074510
 Ks 0.330000 0.330000 0.330000
 map_Kd 5301 The people v Cruiships/_33.jpg
 
-newmtl _Translucent_Glass_Tinted_1
-Ka 0.000000 0.000000 0.000000
-Kd 0.027451 0.788235 0.941176
-Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/_Translucent_Glass_Tinted_1.jpg
-
 newmtl _Wood_Bamboo_Medium_1
 Ka 0.000000 0.000000 0.000000
 Kd 0.694118 0.411765 0.168627
@@ -609,23 +603,17 @@ Kd 0.768627 0.745098 0.729412
 Ks 0.330000 0.330000 0.330000
 map_Kd 5301 The people v Cruiships/Fencing_Weathered.jpg
 
+newmtl _Translucent_Glass_Tinted_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/_Translucent_Glass_Tinted_1.jpg
+
 newmtl _1
 Ka 0.000000 0.000000 0.000000
 Kd 0.000000 0.831373 0.909804
 Ks 0.330000 0.330000 0.330000
 map_Kd 5301 The people v Cruiships/_1.jpg
-
-newmtl Translucent_Glass_Block_Dark
-Ka 0.000000 0.000000 0.000000
-Kd 0.478431 0.486275 0.466667
-Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/Translucent_Glass_Block_Dark.jpg
-
-newmtl Vegetation_Blur3
-Ka 0.000000 0.000000 0.000000
-Kd 0.372549 0.529412 0.341176
-Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/Vegetation_Blur3.jpg
 
 newmtl Wood__Floor
 Ka 0.000000 0.000000 0.000000
@@ -699,6 +687,17 @@ Kd 0.000000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
 map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight11_.png
 
+newmtl Translucent_Glass_Block_Dark
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.486275 0.466667
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Translucent_Glass_Block_Dark.jpg
+
+newmtl _3
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.058824 0.058824
+Ks 0.330000 0.330000 0.330000
+
 newmtl _11
 Ka 0.000000 0.000000 0.000000
 Kd 0.117647 0.196078 0.258824
@@ -709,12 +708,69 @@ Ka 0.000000 0.000000 0.000000
 Kd 0.258824 0.258824 0.258824
 Ks 0.330000 0.330000 0.330000
 
-newmtl _Translucent_Glass_Sky_Reflection_1
+newmtl _Roofing_Shingles_GAF_Estates_1
 Ka 0.000000 0.000000 0.000000
-Kd 0.486275 0.541176 0.709804
+Kd 0.317647 0.301961 0.290196
 Ks 0.330000 0.330000 0.330000
-d 0.520000
-map_Kd 5301 The people v Cruiships/_Translucent_Glass_Sky_Reflection_1.jpg
+map_Kd 5301 The people v Cruiships/_Roofing_Shingles_GAF_Estates_1.jpg
+
+newmtl _Ashlar_Stone_
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.658824 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/_Ashlar_Stone_.jpg
+
+newmtl Stone_Sandstone_Ashlar_Light
+Ka 0.000000 0.000000 0.000000
+Kd 0.807843 0.698039 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Stone_Sandstone_Ashlar_Light.jpg
+
+newmtl _34
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.462745 0.639216
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/_34.jpg
+
+newmtl _12
+Ka 0.000000 0.000000 0.000000
+Kd 0.909804 0.372549 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/_12.jpg
+
+newmtl _Stone_Granite_Midnite_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.372549 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/_Stone_Granite_Midnite_1.jpg
+
+newmtl _Vegetation_HoneyLocust_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.568627 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/_Vegetation_HoneyLocust_1.jpg
+
+newmtl _Brown_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.470588 0.215686
+Ks 0.330000 0.330000 0.330000
+
+newmtl Stone_Masonry_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.686275 0.643137
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Stone_Masonry_Multi.jpg
+
+newmtl _DarkSeaGreen_
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.639216 0.337255
+Ks 0.330000 0.330000 0.330000
+
+newmtl Vegetation_Blur3
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.529412 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Vegetation_Blur3.jpg
 
 newmtl Wood_Lumber_ButtJoined
 Ka 0.000000 0.000000 0.000000
@@ -728,23 +784,18 @@ Kd 0.250980 0.584314 0.654902
 Ks 0.330000 0.330000 0.330000
 map_Kd 5301 The people v Cruiships/Water_Pool.jpg
 
+newmtl _Translucent_Glass_Sky_Reflection_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.541176 0.709804
+Ks 0.330000 0.330000 0.330000
+d 0.520000
+map_Kd 5301 The people v Cruiships/_Translucent_Glass_Sky_Reflection_1.jpg
+
 newmtl Stone_Flagstone_Ashlar
 Ka 0.000000 0.000000 0.000000
 Kd 0.686275 0.454902 0.400000
 Ks 0.330000 0.330000 0.330000
 map_Kd 5301 The people v Cruiships/Stone_Flagstone_Ashlar.jpg
-
-newmtl Stone_Masonry_Multi
-Ka 0.000000 0.000000 0.000000
-Kd 0.713725 0.686275 0.643137
-Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/Stone_Masonry_Multi.jpg
-
-newmtl Stone_Sandstone_Ashlar_Light
-Ka 0.000000 0.000000 0.000000
-Kd 0.807843 0.698039 0.501961
-Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/Stone_Sandstone_Ashlar_Light.jpg
 
 newmtl Stone_Pavers_Flagstone_Gray
 Ka 0.000000 0.000000 0.000000
@@ -758,6 +809,12 @@ Kd 0.000000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
 map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight12_.png
 
+newmtl Textile_Leaves_Green
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.133333 0.627451
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Textile_Leaves_Green.jpg
+
 newmtl Fencing_Metal_Straight13_
 Ka 0.000000 0.000000 0.000000
 Kd 0.000000 0.000000 0.000000
@@ -769,12 +826,6 @@ Ka 0.000000 0.000000 0.000000
 Kd 0.000000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
 map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight14_.png
-
-newmtl Textile_Leaves_Green
-Ka 0.000000 0.000000 0.000000
-Kd 0.000000 0.133333 0.627451
-Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/Textile_Leaves_Green.jpg
 
 newmtl Fencing_Metal_Straight15_
 Ka 0.000000 0.000000 0.000000
@@ -830,65 +881,302 @@ Kd 0.000000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
 map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight23_.png
 
-newmtl _Brown_1
-Ka 0.000000 0.000000 0.000000
-Kd 0.568627 0.470588 0.215686
-Ks 0.330000 0.330000 0.330000
-
 newmtl Fencing_Metal_Straight24_
 Ka 0.000000 0.000000 0.000000
 Kd 0.000000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
 map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight24_.png
 
-newmtl _3
-Ka 0.000000 0.000000 0.000000
-Kd 0.058824 0.058824 0.058824
-Ks 0.330000 0.330000 0.330000
-
 newmtl Color_008
 Ka 0.000000 0.000000 0.000000
 Kd 0.078431 0.078431 0.078431
 Ks 0.330000 0.330000 0.330000
 
-newmtl _Roofing_Shingles_GAF_Estates_1
+newmtl Fencing_Metal_Straight25_
 Ka 0.000000 0.000000 0.000000
-Kd 0.317647 0.301961 0.290196
+Kd 0.000000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/_Roofing_Shingles_GAF_Estates_1.jpg
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight25_.png
 
-newmtl _DarkSeaGreen_
+newmtl Fencing_Metal_Straight26_
 Ka 0.000000 0.000000 0.000000
-Kd 0.294118 0.639216 0.337255
+Kd 0.000000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight26_.png
 
-newmtl _Ashlar_Stone_
+newmtl Fencing_Metal_Straight27_
 Ka 0.000000 0.000000 0.000000
-Kd 0.658824 0.658824 0.658824
+Kd 0.000000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/_Ashlar_Stone_.jpg
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight27_.png
 
-newmtl _34
+newmtl Fencing_Metal_Straight28_
 Ka 0.000000 0.000000 0.000000
-Kd 0.596078 0.462745 0.639216
+Kd 0.000000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/_34.jpg
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight28_.png
 
-newmtl _12
+newmtl Fencing_Metal_Straight29_
 Ka 0.000000 0.000000 0.000000
-Kd 0.909804 0.372549 0.549020
+Kd 0.000000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/_12.jpg
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight29_.png
 
-newmtl _Stone_Granite_Midnite_1
+newmtl Fencing_Metal_Straight30_
 Ka 0.000000 0.000000 0.000000
-Kd 0.384314 0.372549 0.376471
+Kd 0.000000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/_Stone_Granite_Midnite_1.jpg
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight30_.png
 
-newmtl _Vegetation_HoneyLocust_1
+newmtl Fencing_Metal_Straight31_
 Ka 0.000000 0.000000 0.000000
-Kd 0.337255 0.568627 0.098039
+Kd 0.000000 0.000000 0.000000
 Ks 0.330000 0.330000 0.330000
-map_Kd 5301 The people v Cruiships/_Vegetation_HoneyLocust_1.jpg
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight31_.png
+
+newmtl Fencing_Metal_Straight32_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight32_.png
+
+newmtl Fencing_Metal_Straight33_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight33_.png
+
+newmtl Fencing_Metal_Straight34_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight34_.png
+
+newmtl Fencing_Metal_Straight35_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight35_.png
+
+newmtl Fencing_Metal_Straight36_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight36_.png
+
+newmtl Fencing_Metal_Straight37_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight37_.png
+
+newmtl Fencing_Metal_Straight38_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight38_.png
+
+newmtl Fencing_Metal_Straight39_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight39_.png
+
+newmtl Fencing_Metal_Straight40_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight40_.png
+
+newmtl Fencing_Metal_Straight41_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight41_.png
+
+newmtl Fencing_Metal_Straight42_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight42_.png
+
+newmtl Fencing_Metal_Straight43_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight43_.png
+
+newmtl Fencing_Metal_Straight44_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight44_.png
+
+newmtl Fencing_Metal_Straight45_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight45_.png
+
+newmtl Fencing_Metal_Straight46_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight46_.png
+
+newmtl Fencing_Metal_Straight47_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight47_.png
+
+newmtl Fencing_Metal_Straight48_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight48_.png
+
+newmtl Fencing_Metal_Straight49_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight49_.png
+
+newmtl Fencing_Metal_Straight50_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight50_.png
+
+newmtl Fencing_Metal_Straight51_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight51_.png
+
+newmtl Fencing_Metal_Straight52_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight52_.png
+
+newmtl Fencing_Metal_Straight53_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight53_.png
+
+newmtl Fencing_Metal_Straight54_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight54_.png
+
+newmtl Fencing_Metal_Straight55_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight55_.png
+
+newmtl Fencing_Metal_Straight56_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight56_.png
+
+newmtl Fencing_Metal_Straight57_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight57_.png
+
+newmtl Fencing_Metal_Straight58_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight58_.png
+
+newmtl Fencing_Metal_Straight59_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight59_.png
+
+newmtl Fencing_Metal_Straight60_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight60_.png
+
+newmtl Fencing_Metal_Straight61_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight61_.png
+
+newmtl Fencing_Metal_Straight62_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight62_.png
+
+newmtl Fencing_Metal_Straight63_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight63_.png
+
+newmtl Fencing_Metal_Straight64_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight64_.png
+
+newmtl Fencing_Metal_Straight65_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight65_.png
+
+newmtl Fencing_Metal_Straight66_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight66_.png
+
+newmtl Fencing_Metal_Straight67_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight67_.png
+
+newmtl Fencing_Metal_Straight68_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight68_.png
+
+newmtl Fencing_Metal_Straight69_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight69_.png
+
+newmtl Fencing_Metal_Straight70_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight70_.png
+
+newmtl Fencing_Metal_Straight71_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight71_.png
+
+newmtl Fencing_Metal_Straight72_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd 5301 The people v Cruiships/Fencing_Metal_Straight72_.png
 
