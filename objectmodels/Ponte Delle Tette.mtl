@@ -1,33 +1,40 @@
-#
-## Alias OBJ Material File
-# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
-
-newmtl Polished_Concrete_New
-Ka 0.000000 0.000000 0.000000
-Kd 0.784314 0.784314 0.796078
-Ks 0.330000 0.330000 0.330000
-map_Kd Ponte Delle Tette/Polished_Concrete_New.jpg
-
-newmtl Concrete_Aggregate_Smoke
-Ka 0.000000 0.000000 0.000000
-Kd 0.603922 0.588235 0.580392
-Ks 0.330000 0.330000 0.330000
-map_Kd Ponte Delle Tette/Concrete_Aggregate_Smoke.jpg
-
-newmtl FrontColor
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.330000 0.330000 0.330000
-
+# Rhino
 newmtl Sandstone
-Ka 0.000000 0.000000 0.000000
-Kd 0.462745 0.317647 0.203922
-Ks 0.330000 0.330000 0.330000
-map_Kd Ponte Delle Tette/Sandstone.jpg
-
+Ka 0.0000 0.0000 0.0000
+Kd 0.4588 0.3137 0.2039
+Ks 0.3294 0.3294 0.3294
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Sandstone.jpg
+newmtl Polished_Concrete_New
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7922
+Ks 0.3294 0.3294 0.3294
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Polished_Concrete_New.jpg
+newmtl FrontColor
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 0.3294 0.3294 0.3294
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl Concrete_Aggregate_Smoke
+Ka 0.0000 0.0000 0.0000
+Kd 0.6039 0.5843 0.5765
+Ks 0.3294 0.3294 0.3294
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Concrete_Aggregate_Smoke.jpg
 newmtl Brick_Antique_01
-Ka 0.000000 0.000000 0.000000
-Kd 0.576471 0.411765 0.278431
-Ks 0.330000 0.330000 0.330000
-map_Kd Ponte Delle Tette/Brick_Antique_01.jpg
-
+Ka 0.0000 0.0000 0.0000
+Kd 0.5765 0.4118 0.2745
+Ks 0.3294 0.3294 0.3294
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Brick_Antique_01.jpg
