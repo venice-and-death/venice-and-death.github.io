@@ -7,14 +7,6 @@ Tf 0.0000 0.0000 0.0000
 d 1.0000
 Ns 0.0000
 map_Kd Sandstone.jpg
-newmtl Polished_Concrete_New
-Ka 0.0000 0.0000 0.0000
-Kd 0.7804 0.7804 0.7922
-Ks 0.3255 0.3255 0.3255
-Tf 0.0000 0.0000 0.0000
-d 1.0000
-Ns 0.0000
-map_Kd Polished_Concrete_New.jpg
 newmtl FrontColor
 Ka 0.0000 0.0000 0.0000
 Kd 1.0000 1.0000 1.0000
@@ -37,3 +29,11 @@ Tf 0.0000 0.0000 0.0000
 d 1.0000
 Ns 0.0000
 map_Kd Brick_Antique_01.jpg
+newmtl Polished_Concrete_New
+Ka 0.0000 0.0000 0.0000
+Kd 0.7804 0.7804 0.7922
+Ks 0.3255 0.3255 0.3255
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Polished_Concrete_New.jpg
